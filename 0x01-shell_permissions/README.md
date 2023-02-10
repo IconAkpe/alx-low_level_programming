@@ -1,1 +1,1 @@
-switch superuser temporarily
+shell permissions
