@@ -1,2 +1,2 @@
 #!/bin/bash
-paste - - | cut -fl
+cat -n |cut -c6 |grep -vp "[02468]" cut -f2
