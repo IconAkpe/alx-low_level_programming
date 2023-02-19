@@ -1,8 +1,3 @@
-/*
- * File: 6-size.c
- * Auth: IconAkpe
- */
-
 #include <stdio.h>
 
 /**
