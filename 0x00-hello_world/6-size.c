@@ -7,7 +7,7 @@
 
 /**
  * main - Prints the size of various types based on
- *		the computer it is complied and run on..
+ *	  the computer it is complied and run on..
  *
  * Return: Always 0.
  */
