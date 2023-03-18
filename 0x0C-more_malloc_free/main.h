@@ -2,9 +2,9 @@
 #define MAIN_H
 
 /**
- * Auth: Brennan D Baraban
+ * Auth: Michael
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x0B-more_malloc_free directory.
+ *       used in the 0x0C-more_malloc_free directory.
  */
 
 int _putchar(char c);
